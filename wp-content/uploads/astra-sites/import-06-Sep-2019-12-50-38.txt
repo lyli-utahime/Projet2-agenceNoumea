@@ -1,0 +1,323 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: Linux
+Software 		: Apache
+MySQL version 		: 5.5.60
+XML Reader 		: Yes
+PHP Version 		: 7.3.8
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 67108864
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 30
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 12:53:15 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+Deleted customizer Settings {"theme-auto-version":"2.0.1","button-color-styling-divider":"","theme-button-color-group":"","theme-button-border-group":"","button-color":"","button-h-color":"","button-bg-color":"","button-bg-h-color":"","button-v-padding":10,"button-h-padding":40,"button-radius":2,"primary-header-button-color-divider":"","primary-header-button-color-group":"","primary-header-button-border-group":"","header-main-rt-section-button-text-color":"","header-main-rt-section-button-text-h-color":"","header-main-rt-section-button-back-color":"","header-main-rt-section-button-back-h-color":"","header-main-rt-section-button-padding":{"desktop":{"top":"","right":"","bottom":"","left":""},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""}},"header-main-rt-section-button-border-size":{"top":"","right":"","bottom":"","left":""},"header-main-rt-section-button-border-color":"","header-main-rt-section-button-border-h-color":"","header-main-rt-section-button-border-radius":"","transparent-header-button-color-divider":"","transparent-header-button-color-group":"","transparent-header-button-border-group":"","header-main-rt-trans-section-button-text-color":"","header-main-rt-trans-section-button-text-h-color":"","header-main-rt-trans-section-button-back-color":"","header-main-rt-trans-section-button-back-h-color":"","header-main-rt-trans-section-button-padding":"","header-main-rt-trans-section-button-border-size":"","header-main-rt-trans-section-button-border-color":"","header-main-rt-trans-section-button-border-h-color":"","header-main-rt-trans-section-button-border-radius":"","site-content-width":1200,"header-layouts":"header-main-layout-1","header-main-layout-width":"content","header-main-sep":1,"header-main-sep-color":"","disable-primary-nav":false,"header-main-rt-section":"none","header-main-rt-section-button-text":"Bouton","header-main-rt-section-button-link":"https:\/\/www.wpastra.com","header-main-rt-section-button-style":"theme-button","header-button-style-link":"","header-main-rt-section-html":"<button>Contactez-nous<\/button>","header-main-submenu-container-animation":"fade","primary-submenu-border":{"top":"2","right":"0","bottom":"0","left":"0"},"primary-submenu-b-color":"","primary-submenu-item-border":false,"primary-submenu-item-b-color":"","header-main-menu-label-divider":"","header-main-menu-align":"inline","hide-custom-menu-mobile":1,"header-display-outside-menu":false,"mobile-header-breakpoint":"","mobile-header-toggle-target":"icon","mobile-header-toggle-target-link-notice":"","header-main-menu-label":"","mobile-header-toggle-btn-style":"minimal","mobile-header-toggle-btn-style-color":"","mobile-header-toggle-btn-border-radius":"","mobile-header-more-feature-divider":"","mobile-header-more-feature-description":"","divider-section-site-identity-logo":"","different-retina-logo":false,"ast-header-retina-logo":"","different-mobile-logo":false,"mobile-header-logo":"","ast-header-responsive-logo-width":{"desktop":"","tablet":"","mobile":""},"ast-site-logo-divider":"","display-site-title":1,"display-site-tagline":0,"logo-title-inline":1,"ast-site-icon-divider":"","site-title-typography":"","ast-site-title-divider":"","site-tagline-typography":"","ast-styling-section-blog-width":"","blog-width":"default","blog-max-width":1200,"ast-styling-section-blog-width-end":"","blog-post-content":"excerpt","blog-post-structure":["image","title-meta"],"blog-meta":["comments","category","author"],"blog-single-width":"default","blog-single-max-width":1200,"ast-styling-section-blog-single-width":"","blog-single-post-structure":["single-image","single-title-meta"],"blog-single-meta":["comments","category","author"],"ast-styling-section-single-blog-layouts":"","site-sidebar-layout":"right-sidebar","single-page-sidebar-layout-divider":"","single-page-sidebar-layout":"default","single-post-sidebar-layout":"default","archive-post-sidebar-layout":"default","divider-section-sidebar-width":"","site-sidebar-width":30,"site-sidebar-width-description":"","site-content-layout-divider":"","site-content-layout":"content-boxed-container","single-page-content-layout":"default","single-post-content-layout":"default","archive-post-content-layout":"default","site-layout-outside-bg-obj":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"ast-container-more-feature-divider":"content-boxed-container","ast-container-more-feature-description":"","footer-sml-layout":"footer-sml-layout-1","section-ast-small-footer-layout-info":"","footer-sml-section-1":"custom","footer-sml-section-1-credit":"Copyright &copy; [current_year] [site_title] | Propuls\u00e9 par [theme_author]","footer-sml-section-2":"","footer-sml-section-2-credit":"Copyright &copy; [current_year] [site_title] | Propuls\u00e9 par [theme_author]","section-ast-small-footer-typography":"","footer-sml-divider":1,"footer-sml-divider-color":"#7a7a7a","footer-bar-color-background-heading-divider":"","footer-bar-background-group":"","footer-bar-content-group":"","footer-layout-width":"content","footer-adv":"disabled","footer-adv-border-width":"","footer-adv-border-color":"#7a7a7a","ast-footer-widget-more-feature-divider":"","ast-footer-widget-more-feature-description":"","text-color":"#3a3a3a","theme-color":"#0274be","link-color":"#0274be","link-h-color":"#3a3a3a","divider-outside-bg-color":"","footer-color":"","footer-link-color":"","footer-link-h-color":"","footer-bg-obj":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"footer-widget-color-background-heading-divider":"","footer-widget-background-group":"","footer-widget-content-group":"","footer-adv-wgt-title-color":"","footer-adv-text-color":"","footer-adv-link-color":"","footer-adv-link-h-color":"","footer-adv-bg-obj":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"blog-typography-divider":"","blog-content-archive-summary-typo":"","blog-content-blog-post-title-typo":"","font-size-page-title":{"desktop":40,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-archive-summary-title":{"desktop":40,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"ast-blog-typography-more-feature-divider":"","ast-blog-typography-more-feature-description":"","divider-base-typo":"","body-font-family":"inherit","body-font-variant":"","body-font-weight":"inherit","body-text-transform":"","font-size-body":{"desktop":15,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"body-line-height":"","para-margin-bottom":"","divider-headings-typo":"","headings-font-family":"inherit","headings-font-variant":"","headings-font-weight":"inherit","headings-text-transform":"","divider-section-h1":"","font-size-h1":{"desktop":40,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"divider-section-h2":"","font-size-h2":{"desktop":30,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"divider-section-h3":"","font-size-h3":{"desktop":25,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"divider-section-h4":"","font-size-h4":{"desktop":20,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"divider-section-h5":"","font-size-h5":{"desktop":18,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"divider-section-h6":"","font-size-h6":{"desktop":15,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"ast-content-typography-more-feature-divider":"","ast-content-typography-more-feature-description":"","font-size-site-title":{"desktop":35,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-site-tagline":{"desktop":15,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"ast-header-typography-more-feature-divider":"","ast-header-typography-more-feature-description":"","divider-section-single-post-typo":"","blog-single-title-typo":"","font-size-entry-title":{"desktop":30,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"ast-sngle-blog-typography-more-feature-divider":"","ast-sngle-blog-typography-more-feature-description":"","transparent-header-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-color-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-color-h-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-link-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-link-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-enable":0,"transparent-header-disable-archive":1,"transparent-header-disable-index":"","transparent-header-disable-latest-posts-index":1,"transparent-header-disable-page":"","transparent-header-disable-posts":"","divider-section-transparent-display":"","transparent-header-on-devices":"both","divider-section-transparent-styling":"","different-transparent-logo":0,"transparent-header-logo":"","different-transparent-retina-logo":false,"transparent-header-retina-logo":"","transparent-header-logo-width":{"desktop":"","tablet":"","mobile":""},"divider-section-transparent-border-styling":"","transparent-header-main-sep":0,"transparent-header-main-sep-color":"","divider-sec-transparent-styling":"","transparent-header-background-colors":"","transparent-header-colors":"","transparent-header-colors-menu":"","transparent-header-colors-submenu":"","transparent-header-colors-content":"","breadcrumb-position":"none","select-breadcrumb-source":"default","breadcrumb-separator":"\u00bb","breadcrumb-disable-home-page":"","breadcrumb-disable-blog-posts-page":"","breadcrumb-disable-search":"","breadcrumb-disable-archive":"","breadcrumb-disable-single-page":"","breadcrumb-disable-single-post":"","breadcrumb-disable-singular":"","breadcrumb-disable-404-page":"","breadcrumb-alignment":"left","breadcrumb-spacing":{"desktop":{"top":"","right":"","bottom":"","left":""},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"section-breadcrumb-color-divider":"","section-breadcrumb-color":"","breadcrumb-bg-color":{"desktop":"","tablet":"","mobile":""},"breadcrumb-active-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-hover-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-separator-color":{"desktop":"","tablet":"","mobile":""},"section-breadcrumb-typography-divider":"","section-breadcrumb-typo":"","breadcrumb-font-family":"inherit","breadcrumb-font-size":"","breadcrumb-font-weight":"inherit","breadcrumb-text-transform":"","breadcrumb-line-height":"","_astra_pb_compatibility_completed":true}
+Deleted - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"","nav_menu_locations":{"primary":"menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"siteorigin_widgets_active":null,"elementor_container_width":"","elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":null,"elementor_global_image_lightbox":"yes","elementor_page_title_selector":"","elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70","5":"#4054b2","6":"#23a455","7":"#000","8":"#fff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":"","elementor_stretched_section_container":"","woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null}
+DELETED - WIDGETS {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}}}
+Deleted - Term 11 - Yoga category
+Deleted - Term 10 - Menu nav_menu
+Deleted - Term 9 - section elementor_library_type
+Deleted - Term 8 - page elementor_library_type
+Deleted - Term 12 - Main Menu nav_menu
+Deleted - Term 13 - Neque category
+Deleted - Form ID 361 - wpforms - Contact Form 1
+Deleted - Form ID 361 -  - 
+Deleted - Post ID 66 - attachment - nutritionist-free-img.jpg
+Deleted - Post ID 389 - page - About Me
+Deleted - Post ID 68 - attachment - slide1-free-img.jpg
+Deleted - Post ID 64 - attachment - yoga-instructor-free-img.jpg
+Deleted - Post ID 69 - attachment - slide3-free-img.jpg
+Deleted - Post ID 47 - attachment - bg-logo-free-img.png
+Deleted - Post ID 48 - attachment - awa1-free-img.png
+Deleted - Post ID 49 - attachment - awa4-free-img.png
+Deleted - Post ID 52 - attachment - awa5-free-img.png
+Deleted - Post ID 54 - attachment - yoga-benefits-free-img.jpg
+Deleted - Post ID 55 - attachment - about-bg-free-img-4.jpg
+Deleted - Post ID 51 - attachment - awa3-free-img.png
+Deleted - Post ID 53 - attachment - count-bg-free-img.jpg
+Deleted - Post ID 50 - attachment - awa2-free-img-1.png
+Deleted - Post ID 58 - attachment - quote-free-img.png
+Deleted - Post ID 59 - attachment - client1-free-img-4.png
+Deleted - Post ID 56 - attachment - slide4-free-img.jpg
+Deleted - Post ID 60 - attachment - client4-free-img-4.png
+Deleted - Post ID 61 - attachment - client3-free-img-4.png
+Deleted - Post ID 62 - attachment - cta-bg-free-img.jpg
+Deleted - Post ID 7 - page - ABOUT
+Deleted - Post ID 120 - attachment - bg-03-free-img
+Deleted - Post ID 121 - attachment - bg-04-free-img
+Deleted - Post ID 119 - attachment - bg-02-free-img
+Deleted - Post ID 122 - attachment - bg-05-free-img
+Deleted - Post ID 123 - attachment - bg-06-free-img
+Deleted - Post ID 124 - attachment - bg-07-free-img
+Deleted - Post ID 126 - attachment - bg-09-free-img
+Deleted - Post ID 125 - attachment - bg-08-free-img
+Deleted - Post ID 127 - attachment - bg-10-free-img
+Deleted - Post ID 133 - attachment - img-06-free-img
+Deleted - Post ID 134 - attachment - img-07-free-img
+Deleted - Post ID 135 - attachment - img-08-free-img
+Deleted - Post ID 136 - attachment - img-09-free-img
+Deleted - Post ID 145 - attachment - hero-section
+Deleted - Post ID 141 - attachment - bg-10-free-img.jpg
+Deleted - Post ID 162 - attachment - working
+Deleted - Post ID 164 - attachment - factory
+Deleted - Post ID 169 - attachment - projects
+Deleted - Post ID 171 - attachment - project-1
+Deleted - Post ID 172 - attachment - project-2
+Deleted - Post ID 173 - attachment - project-3
+Deleted - Post ID 174 - attachment - project-4
+Deleted - Post ID 177 - attachment - aerospace
+Deleted - Post ID 179 - attachment - oil
+Deleted - Post ID 180 - attachment - automotive
+Deleted - Post ID 182 - attachment - product
+Deleted - Post ID 184 - attachment - img-05-free-img
+Deleted - Post ID 189 - attachment - screenshot-business
+Deleted - Post ID 196 - attachment - logo@2x-free-img
+Deleted - Post ID 197 - attachment - logo-free-img
+Deleted - Post ID 199 - attachment - footer-bg-free-img
+Deleted - Post ID 204 - attachment - sierra_business
+Deleted - Post ID 231 - attachment - industry-1
+Deleted - Post ID 246 - attachment - industry-2
+Deleted - Post ID 249 - attachment - industry-3
+Deleted - Post ID 253 - attachment - industry-4
+Deleted - Post ID 256 - attachment - industry-5
+Deleted - Post ID 259 - attachment - industry-6
+Deleted - Post ID 298 - attachment - bg-blog-free-img
+Deleted - Post ID 362 - attachment - sierra_business-black
+Deleted - Post ID 6 - page - HOME
+Deleted - Post ID 363 - custom_css - astra
+Deleted - Post ID 379 - attachment - favicon-free-img
+Deleted - Post ID 380 - attachment - logo@2x-free-img
+Deleted - Post ID 381 - attachment - logo-free-img
+Deleted - Post ID 40 - attachment - divider-free-img.png
+Deleted - Post ID 382 - attachment - yoga1-free-img.png
+Deleted - Post ID 383 - attachment - yoga6-free-img.png
+Deleted - Post ID 384 - attachment - yoga5-free-img.png
+Deleted - Post ID 43 - attachment - yoga3-free-img.png
+Deleted - Post ID 385 - attachment - yoga4-free-img.png
+Deleted - Post ID 46 - attachment - yoga2-free-img.png
+Deleted - Post ID 70 - attachment - slide2-free-img.jpg
+Deleted - Post ID 71 - attachment - slide5-free-img.jpg
+Deleted - Post ID 72 - attachment - slide6-free-img.jpg
+Deleted - Post ID 73 - attachment - discount-free-img.png
+Deleted - Post ID 76 - attachment - courses-bg-free-img-1
+Deleted - Post ID 83 - attachment - book1-free-img
+Deleted - Post ID 89 - attachment - book3-free-img
+Deleted - Post ID 90 - attachment - book2-free-img
+Deleted - Post ID 386 - attachment - home-bg-free-img
+Deleted - Post ID 387 - attachment - demo-screenshot-free-img
+Deleted - Post ID 388 - page - Home
+Deleted - Post ID 65 - attachment - author-free-img-1.jpg
+Deleted - Post ID 364 - page - PRODUCTS
+Deleted - Post ID 365 - page - PROJECTS
+Deleted - Post ID 366 - page - CONTACT
+Deleted - Post ID 367 -  - 
+Deleted - Post ID 368 -  - 
+Deleted - Post ID 370 -  - 
+Deleted - Post ID 369 -  - 
+Deleted - Post ID 371 -  - 
+Deleted - Post ID 194 - elementor_library - Old Footer
+Deleted - Post ID 230 - post - Neque porro quisquam est
+Deleted - Post ID 245 - post - Praesent fringilla eleifend dui sit amet
+Deleted - Post ID 248 - post - Vivamus quis placerat ligula
+Deleted - Post ID 252 - post - Nullam sed rutrum odio
+Deleted - Post ID 255 - post - Mauris vitae magna maximus
+Deleted - Post ID 263 - page - BLOG
+Deleted - Post ID 320 -  - 
+Deleted - Post ID 258 - post - Etiam ultrices mollis faucibus
+Deleted - Post ID 390 - page - Classes
+Deleted - Post ID 36 -  - 
+Deleted - Post ID 391 -  - 
+Deleted - Post ID 392 -  - 
+Deleted - Post ID 81 - page - Publications
+Deleted - Post ID 93 -  - 
+Deleted - Post ID 94 - page - Get Fit
+Deleted - Post ID 97 -  - 
+Deleted - Post ID 152 - page - Blog
+Deleted - Post ID 185 - attachment - weights-free-img
+Deleted - Post ID 205 - attachment - blog-1
+Deleted - Post ID 295 - attachment - gymnastics-free-img
+Deleted - Post ID 393 - attachment - blog-2
+Deleted - Post ID 394 - attachment - blog-3
+Deleted - Post ID 395 - attachment - blog-4
+Deleted - Post ID 411 - attachment - blog-5
+Deleted - Post ID 414 - attachment - blog-6
+Deleted - Post ID 444 -  - 
+Deleted - Post ID 445 - post - Live a Disciplined Life
+Deleted - Post ID 309 - post - Top 5 Rules of Yoga
+Deleted - Post ID 312 - post - Basic Yoga Techniques for Beginners
+Deleted - Post ID 314 - post - Perfect Nutrition for Healthy Life
+Deleted - Post ID 316 - post - What I Learned from Yoga
+Deleted - Post ID 319 - post - My Yoga Journey
+Deleted - Post ID 446 - wp_block - Blog-hero-sec
+Deleted - Post ID 490 - attachment - hiking
+Deleted - Post ID 491 - attachment - hiking
+Deleted - Post ID 492 - attachment - walk
+Deleted - Post ID 493 - attachment - about-bg
+Deleted - Post ID 494 - attachment - vision
+Deleted - Post ID 91 - attachment - services-1
+Deleted - Post ID 495 - attachment - services-2
+Deleted - Post ID 98 - attachment - camping-02-free-img
+Deleted - Post ID 99 - attachment - services-3
+Deleted - Post ID 132 - attachment - quote
+Deleted - Post ID 151 - attachment - 19-1
+Deleted - Post ID 157 - attachment - mission
+Deleted - Post ID 158 - attachment - about-bg
+Deleted - Post ID 168 - attachment - snow
+Deleted - Post ID 170 - attachment - snow-1
+Deleted - Post ID 496 - attachment - mountain-3
+Deleted - Post ID 178 - attachment - section-bg
+Deleted - Post ID 498 - attachment - water-sports-02
+Deleted - Post ID 497 - attachment - water-sports-01
+Deleted - Post ID 499 - attachment - water-sports-03
+Deleted - Post ID 183 - attachment - water-sports-04
+Deleted - Post ID 500 - attachment - winter-sports-01
+Deleted - Post ID 187 - attachment - winter-sports-03
+Deleted - Post ID 186 - attachment - winter-sports-02
+Deleted - Post ID 188 - attachment - winter-sports-04
+Deleted - Post ID 191 - attachment - camp-2
+Deleted - Post ID 190 - attachment - camp-1
+Deleted - Post ID 192 - attachment - camp-3
+Deleted - Post ID 193 - attachment - camp-4
+Deleted - Post ID 501 - attachment - services-bg
+Deleted - Post ID 195 - attachment - adventure-black-logo@2x-161&#215;40
+Deleted - Post ID 198 - attachment - winter-sport
+Deleted - Post ID 228 - attachment - image-1
+Deleted - Post ID 216 - attachment - project-background
+Deleted - Post ID 275 - attachment - blog-bg-free-img
+Deleted - Post ID 237 - attachment - hero-bg
+Deleted - Post ID 270 - attachment - outdoor-facebook-yoast-free-img
+Deleted - Post ID 280 - attachment - blog1-free-img
+Deleted - Post ID 278 - attachment - blog-1-free-img
+Deleted - Post ID 286 - attachment - blog-2-free-img
+Deleted - Post ID 502 - page - Home
+Deleted - Post ID 5 - page - About
+Deleted - Post ID 503 - page - Services
+Deleted - Post ID 505 - page - Contact
+Deleted - Post ID 506 - nav_menu_item - 
+Deleted - Post ID 507 -  - 
+Deleted - Post ID 504 - page - Projects
+Deleted - Post ID 508 -  - 
+Deleted - Post ID 510 - custom_css - astra
+Deleted - Post ID 509 -  - 
+Deleted - Post ID 150 -  - 
+Deleted - Post ID 273 - page - Blog
+Deleted - Post ID 287 - attachment - blog2-free-img
+Deleted - Post ID 289 - attachment - blog3-free-img
+Deleted - Post ID 294 - attachment - blog-4-free-img
+Deleted - Post ID 290 - attachment - blog-3-free-img
+Deleted - Post ID 511 - attachment - blog4-free-img
+Deleted - Post ID 297 - attachment - blog-5-free-img
+Deleted - Post ID 299 - attachment - blog-6-free-img
+Deleted - Post ID 310 -  - 
+Deleted - Post ID 277 - post - Top 5 Adventure Places In Habentia Spectent
+Deleted - Post ID 285 - post - Exciting Forest Journeys In Voluptates Repudiandae
+Deleted - Post ID 288 - post - Arizona Journey with molestiae non recusandae
+Deleted - Post ID 293 - post - Into The Deep In Pacific With Vero Eeos
+Deleted - Post ID 296 - post - Top 10 Adventure Places To Experience Quasi Architecto
+Deleted - Post ID 512 - post - Awesome Place To Feel Dolores Eos
+Inserted WP Form 532
+Imported Customizer Settings {"astra-settings":{"astra-addon-auto-version":"1.8.7","theme-auto-version":"1.8.7","site-content-layout":"boxed-container","body-font-family":"'Noto Sans', sans-serif","body-font-weight":"400","body-font-variant":"400,700","headings-font-family":"'Montserrat', sans-serif","headings-font-variant":"","headings-font-weight":"700","font-size-h2":{"desktop":"32","tablet":"","mobile":"24","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h3":{"desktop":"24","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"theme-color":"#fb2056","link-color":"#fb2056","text-color":"#222222","link-h-color":"#fb2056","transparent-menu-bg-color-responsive":{"desktop":"rgba(255,255,255,0)","tablet":"","mobile":""},"transparent-menu-color-responsive":{"desktop":"#ffffff","tablet":"#fb2056","mobile":"#fb2056"},"transparent-menu-h-color-responsive":{"desktop":"#ffffff","tablet":"#000000","mobile":"#000000"},"ast-header-responsive-logo-width":{"desktop":"140","tablet":"","mobile":"100"},"display-site-title":true,"font-size-body":{"desktop":"16","tablet":"","mobile":"15","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"footer-sml-section-1-credit":"123 Fifth Avenue, NY 10160, New York, USA  |  Phone: 800-123-456  |  Email: contact@example.com","footer-sml-section-2":"custom","footer-sml-section-2-credit":"Copyright \u00a9 [current_year] Outdoor Adventure ","footer-color":"#d3d3d3","footer-link-color":"#fb2056","footer-link-h-color":"#fb2056","footer-bg-obj":{"background-color":"#191919","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"header-main-rt-section":"button","header-main-rt-section-html":"<button class=\"customBtn\">Take Action<\/button>","font-size-h1":{"desktop":"64","tablet":"44","mobile":"30","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"button-radius":60,"button-v-padding":8,"button-h-padding":38,"body-line-height":"1.49","font-size-h4":{"desktop":"20","tablet":"","mobile":"19","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h6":{"desktop":"15","tablet":"","mobile":"15","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h5":{"desktop":"18","tablet":"","mobile":"16","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"transparent-header-enable":false,"different-transparent-logo":false,"transparent-header-logo":"","transparent-header-disable-archive":true,"mobile-header-toggle-btn-style":"fill","mobile-header-toggle-btn-style-color":"","display-site-tagline":true,"logo-title-inline":false,"transparent-header-color-site-title-responsive":{"desktop":"#ffffff","tablet":"#ffffff","mobile":""},"font-size-site-title":{"desktop":"22","tablet":"","mobile":"20","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-site-tagline":{"desktop":"15","tablet":"","mobile":"14","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"header-main-rt-section-button-text":"Take Action","header-main-rt-section-button-link":"#","button-color":"","button-bg-color":"","button-h-color":"","button-bg-h-color":"","header-main-rt-section-button-style":"custom-button","header-main-rt-section-button-text-color":"","header-main-rt-section-button-text-h-color":"","header-main-rt-section-button-back-color":"","header-main-rt-section-button-back-h-color":"","header-main-rt-section-button-padding":{"desktop":{"top":"10","right":"26","bottom":"10","left":"26"},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"header-main-rt-trans-section-button-text-color":"rgba(255,255,255,0.9)","header-main-rt-trans-section-button-back-color":"rgba(255,255,255,0)","hide-custom-menu-mobile":false,"header-display-outside-menu":false,"transparent-header-on-devices":"desktop","transparent-header-main-sep-color":"#ffffff","transparent-header-disable-page":false,"header-main-rt-trans-section-button-text-h-color":"#ffffff","header-main-rt-trans-section-button-back-h-color":"#fb2056","header-main-rt-trans-section-button-border-size":{"top":"2","right":"2","bottom":"2","left":"2"},"header-main-rt-trans-section-button-border-color":"rgba(255,255,255,0.9)","header-main-rt-trans-section-button-border-h-color":"#fb2056","header-main-rt-trans-section-button-padding":{"desktop":{"top":"8","right":"22","bottom":"8","left":"22"},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"transparent-header-disable-index":true,"transparent-header-disable-posts":true,"header-main-sep":0,"footer-sml-divider":0,"font-size-page-title":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"wc-header-cart-header-colors":false,"shop-quick-view-stick-cart":true,"blog-single-post-structure":["single-title-meta","single-image"],"blog-single-meta":["comments","category","author"],"blog-single-width":"default","blog-single-max-width":1100},"custom-css":""}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/351/wxr.xml
+Inserted - Term 14 - {"term_id":14,"name":"Neque","slug":"neque","term_group":0,"term_taxonomy_id":14,"taxonomy":"category","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 15 - {"term_id":15,"name":"page","slug":"page","term_group":0,"term_taxonomy_id":15,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 16 - {"term_id":16,"name":"section","slug":"section","term_group":0,"term_taxonomy_id":16,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 17 - {"term_id":17,"name":"Menu","slug":"menu","term_group":0,"term_taxonomy_id":17,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 533 - attachment - hiking
+Inserted - Post 534 - attachment - hiking
+Inserted - Post 535 - attachment - walk
+Inserted - Post 58 - attachment - about-bg
+Inserted - Post 62 - attachment - vision
+Inserted - Post 91 - attachment - services-1
+Inserted - Post 94 - attachment - services-2
+Inserted - Post 98 - attachment - camping-02-free-img
+Inserted - Post 99 - attachment - services-3
+Inserted - Post 132 - attachment - quote
+Inserted - Post 151 - attachment - 19-1
+Inserted - Post 157 - attachment - mission
+Inserted - Post 158 - attachment - about-bg
+Inserted - Post 168 - attachment - snow
+Inserted - Post 170 - attachment - snow-1
+Inserted - Post 177 - attachment - mountain-3
+Inserted - Post 178 - attachment - section-bg
+Inserted - Post 179 - attachment - water-sports-01
+Inserted - Post 180 - attachment - water-sports-02
+Inserted - Post 182 - attachment - water-sports-03
+Inserted - Post 183 - attachment - water-sports-04
+Inserted - Post 185 - attachment - winter-sports-01
+Inserted - Post 186 - attachment - winter-sports-02
+Inserted - Post 187 - attachment - winter-sports-03
+Inserted - Post 188 - attachment - winter-sports-04
+Inserted - Post 190 - attachment - camp-1
+Inserted - Post 191 - attachment - camp-2
+Inserted - Post 192 - attachment - camp-3
+Inserted - Post 193 - attachment - camp-4
+Inserted - Post 194 - attachment - services-bg
+Inserted - Post 195 - attachment - adventure-black-logo@2x-161&#215;40
+Inserted - Post 198 - attachment - winter-sport
+Inserted - Post 216 - attachment - project-background
+Inserted - Post 228 - attachment - image-1
+Inserted - Post 237 - attachment - hero-bg
+Inserted - Post 270 - attachment - outdoor-facebook-yoast-free-img
+Inserted - Post 275 - attachment - blog-bg-free-img
+Inserted - Post 278 - attachment - blog-1-free-img
+Inserted - Post 280 - attachment - blog1-free-img
+Inserted - Post 286 - attachment - blog-2-free-img
+Inserted - Post 536 - page - Home
+Inserted - Post 5 - page - About
+Inserted - Post 6 - page - Services
+Inserted - Post 7 - page - Projects
+Inserted - Post 537 - page - Contact
+Inserted - Post 538 - nav_menu_item - 
+Inserted - Post 539 - nav_menu_item - 
+Inserted - Post 540 - nav_menu_item - 
+Inserted - Post 541 - nav_menu_item - 
+Inserted - Post 49 - custom_css - astra
+Inserted - Post 150 - nav_menu_item - 
+Inserted - Post 273 - page - Blog
+Inserted - Post 287 - attachment - blog2-free-img
+Inserted - Post 289 - attachment - blog3-free-img
+Inserted - Post 290 - attachment - blog-3-free-img
+Inserted - Post 294 - attachment - blog-4-free-img
+Inserted - Post 295 - attachment - blog4-free-img
+Inserted - Post 297 - attachment - blog-5-free-img
+Inserted - Post 299 - attachment - blog-6-free-img
+Inserted - Post 310 - nav_menu_item - 
+Inserted - Post 277 - post - Top 5 Adventure Places In Habentia Spectent
+Inserted - Post 285 - post - Exciting Forest Journeys In Voluptates Repudiandae
+Inserted - Post 288 - post - Arizona Journey with molestiae non recusandae
+Inserted - Post 293 - post - Into The Deep In Pacific With Vero Eeos
+Inserted - Post 296 - post - Top 10 Adventure Places To Experience Quasi Architecto
+Inserted - Post 298 - post - Awesome Place To Feel Dolores Eos
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"","nav_menu_locations":{"primary":"menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"siteorigin_widgets_active":null,"elementor_container_width":"","elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":null,"elementor_global_image_lightbox":"yes","elementor_page_title_selector":"","elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70","5":"#4054b2","6":"#23a455","7":"#000","8":"#fff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":"","elementor_stretched_section_container":"","woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null}
+Imported - Widgets {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}}}
+Complete 
+Batch Process Started!
+Astra Sites - Importing Images for Blog name 'Nouméa' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+Post ID: 27
+Post ID: 26
+Post ID: 25
+Post ID: 24
+Post ID: 23
+Post ID: 22
+Post ID: 21
+Post ID: 20
+Post ID: 310
+Post ID: 150
+Batch Process Complete!
